@@ -11,18 +11,4 @@ Na podstawie znanych elementów HTML spróbuj stworzyć identyczną strukturę w
 
 &#8222;Read more &gt;&#8221; powinno zaczynać się od nowego paragrafu, a znak &gt; powinien być w unicode.
 
- Wróć do slajdu &#8222;Zagnieżdżanie list&#8221; w prezentacji o HTML i CSS oraz poczytaj na ten temat w [dokumentacji][dokumentacja]. Zwróć uwagę, w jakim miejscu umieszcza się listę zagnieżdżoną, zwłaszcza gdzie zamyka się znacznik **li**.
-
  Nie zwracaj uwagi na typ znacznika w liście zagnieżdżonej. Nie jest istotne, czy poszczególne elementy zaczynają się od symbolu koła, okrągu czy kwadratu. Ważne, aby to była lista nieuporządkowana (**ul**).
-
-
-
-## Potrzebujesz pomocy?
-* [Generator tekstu (do 1. akapitu)](http://www.cupcakeipsum.com)
-* [Dokumentacja, paragraf](https://developer.mozilla.org/pl/docs/Web/HTML/Element/p)
-* [Dokumentacja, lista zagnieżdżona](https://developer.mozilla.org/pl/docs/Web/HTML/Element/ul)
-* HTML i CSS &ndash; prework
-
-
-<!-- links -->
-[dokumentacja]: https://developer.mozilla.org/pl/docs/Web/HTML/Element/ul
