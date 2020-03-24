@@ -1,0 +1,48 @@
+#green {
+    color: green;
+}
+
+#blue {
+    color: blue;
+}
+
+#red {
+    color: red;
+}
+
+#darkkhaki {
+    color: darkkhaki;
+}
+
+#teal {
+    color: teal;
+}
+
+#first {
+    background-color: rgba(249,172,38, .25)
+    /* #f9ac26; */
+}
+
+#second {
+    background-color: rgb(221,160,221, .25)
+    /* #dda0dd; */
+}
+
+#third {
+    background-color: hsla(55, 100%, 25%, .5)
+}
+
+#fourth {
+    background-color: yellow;
+    width: 200px;
+}
+
+#first-p {
+    width: 10em;
+    background-color: pink;
+}
+
+#second-p {
+    width: 5em;
+    background-color: darkmagenta;
+}
