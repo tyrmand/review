@@ -1,0 +1,38 @@
+* {
+    font-family: Verdana, Arial, sans-serif;
+}
+
+div {
+    width: 500px;
+}
+
+h1 {
+    background-color: #acc4ce;
+    color: white;
+    font-size: 20px;
+    text-shadow: 6px 2px 5px #878787;
+}
+
+h2 {
+    color: #395075;
+    letter-spacing: 10px;
+    font-size: 16px;
+}
+
+p {
+    color: grey;
+    font-size: 14px;
+    line-height: 20px;
+    text-indent: 20px;
+}
+
+.center-uppercase {
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.slim-italic-font {
+    font-style: italic;
+    font-weight: 100;
+}
