@@ -1,0 +1,16 @@
+.ul-square-punctor {
+    list-style-type: square;
+}
+
+/* .ul-simple-menu {
+
+} */
+
+.ul-simple-menu li {
+    float: left;
+    margin: 10px;
+    color: #116493;
+    list-style-type: none;
+    text-transform: uppercase;
+    font-size: 1.5rem
+}
