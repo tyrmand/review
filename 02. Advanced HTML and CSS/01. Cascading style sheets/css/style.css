@@ -1,0 +1,31 @@
+p {
+    font-size: 12px !important;
+}
+
+p {
+    font-size: 40px;
+}
+
+.p-larger-font {
+    font-size: 20px;
+}
+
+.p-smaller-font {
+    font-size: 10px;
+}
+
+p, span {
+    background-color: yellow;
+}
+
+div {
+    background-color: blue;
+}
+
+#div {
+    background-color: red;
+}
+
+.div {
+    background-color: green;
+}
