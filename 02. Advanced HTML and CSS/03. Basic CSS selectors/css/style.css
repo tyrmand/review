@@ -39,3 +39,18 @@ div.blog p {
   }
 
   
+  [type="submit"] {
+    background-color: blue;
+  }
+  
+  [type~="email"] {
+    background-color: green;
+  }
+  
+  [class*="main-width"] {
+    background-color: red;
+  }
+  
+  [class^="main-width"] {
+    background-color: pink;
+  }
