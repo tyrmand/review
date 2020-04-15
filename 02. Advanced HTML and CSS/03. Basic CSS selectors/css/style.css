@@ -25,3 +25,17 @@ div.blog p {
 #inny + p {
     background-color: purple;
   }
+
+  h1, h2, h3, h4, h5 {
+    background-color: green;
+  }
+  
+  div.important {
+    background-color: green;
+  }
+  
+  div.white * {
+    background-color: blue;
+  }
+
+  
