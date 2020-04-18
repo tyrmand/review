@@ -11,6 +11,40 @@
     font-style: normal;
 }
 
-p {
+@font-face {
+    font-family: 'Permanent Marker';
+    src: url('../fonts/PermanentMarker-Regular.eot');
+    src: local('Permanent Marker Regular'), local('PermanentMarker-Regular'),
+        url('../fonts/PermanentMarker-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/PermanentMarker-Regular.woff2') format('woff2'),
+        url('../fonts/PermanentMarker-Regular.woff') format('woff'),
+        url('../fonts/PermanentMarker-Regular.ttf') format('truetype'),
+        url('../fonts/PermanentMarker-Regular.svg#PermanentMarker-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'amatic_scregular';
+    src: url('../fonts/amaticsc-regular.woff2') format('woff2'),
+         url('../fonts/amaticsc-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.p-lato-font {
     font-family: Lato, cursive;
+}
+
+.p-marker-font {
+    font-family: "Permanent Marker", cursive;
+}
+
+.p-roboto-font {
+    font-family: Roboto, sans-serif;
+}
+
+.p-amatic-font {
+    font-family: "amatic-scregular", sans-serif;
 }
