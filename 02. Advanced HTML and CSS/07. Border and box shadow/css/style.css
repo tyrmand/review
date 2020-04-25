@@ -16,14 +16,14 @@
     background-color: lime;
     width: 200px;
     height: 100px;
-    border-radius: 75%;
+    border-radius: 50%;
 }
 
 .circle {
     background-color: lime;
     width: 200px;
     height: 200px;
-    border-radius: 75%;
+    border-radius: 50%;
 }
 
 .lime {
@@ -32,4 +32,13 @@
     height: 200px;
     border-top-right-radius: 25%;
     border-bottom-left-radius: 25%;
+}
+
+.div-border-shadow {
+    width: 200px;
+    height: 200px;
+    box-shadow: 0px 0px 0px 5px red;
+    /* box-shadow: 0px -10px 8px 0px blue,
+                0px 10px 0px rgba(255,0, 0, .15); */
+    /* box-shadow: 93px -55px 0 -11px rgba(0,0,0,0.75) */
 }
