@@ -1,0 +1,10 @@
+.container {
+    border: 1px dashed blue;
+    width: 400px;
+}
+
+.one {
+    border: 1px solid red;
+    width: 350px;
+    box-sizing: border-box;
+}
