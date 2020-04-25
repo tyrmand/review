@@ -11,3 +11,25 @@
     font-size: 50px;
     text-transform: uppercase;
 }
+
+.ellipse {
+    background-color: lime;
+    width: 200px;
+    height: 100px;
+    border-radius: 75%;
+}
+
+.circle {
+    background-color: lime;
+    width: 200px;
+    height: 200px;
+    border-radius: 75%;
+}
+
+.lime {
+    background-color: lime;
+    width: 200px;
+    height: 200px;
+    border-top-right-radius: 25%;
+    border-bottom-left-radius: 25%;
+}
