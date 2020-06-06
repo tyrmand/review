@@ -44,13 +44,19 @@ ul li {
 /* Zadanie 3
 -------------*/
 
-.bordered {
-    border: 1px solid black;
+.bordered-hedgehog {
+    border: 1px solid blue;
+    width: 700px;
+    position: relative;
+    padding: 10px;
 }
 
 .positioned {
     width: 100px;
     height: 100px;
     border-radius: 50%;
-    margin: 5px;
+    /* margin: 5px; */
+    position: absolute;
+    bottom: -50px;
+    right: -50px;
 }
